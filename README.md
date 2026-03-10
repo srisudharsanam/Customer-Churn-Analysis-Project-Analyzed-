@@ -197,4 +197,4 @@ python scripts/eda_summary.py
 
 ---
 
-*Project by: [Your Name] | Data Analytics Portfolio*
+
